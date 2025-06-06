@@ -9,6 +9,7 @@ Repositório criado para desenvolvimento de um sistema bancário em Python, em r
 🌱 À medida que o curso avance, otimizações e recursos serão implantados.
 
 - v1.0 - Aplicação de Fundamentos do Python
+- v2.0 - Aplicação dos Conceitos de Classes, Objetos, Herança, Encapsulamento, Polimorfismo, Classes Abstratas, Properties...
 - Loading...
 
 [![Python](https://img.shields.io/badge/Python-Python.org-green)](www.python.org)
